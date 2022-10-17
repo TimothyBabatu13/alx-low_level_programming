@@ -2,10 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * *main - entry point of programs
- * *
- * *Return: return 0
- * */
+ * main - entry point of the programs
+ * Return: return 0
+ */
 int main(void)
 {
 		int n;
